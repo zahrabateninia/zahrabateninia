@@ -1,3 +1,4 @@
+![profile header](github-header-image.png)
 <h1 align="center">Hi 👋, I'm Zahra Bateninia</h1>
 <h3 align="center">Passionate about Python, JavaScript, web development, and adept at problem-solving in Linux environments</h3>
 
