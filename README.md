@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3brzmzm2ceteusjzjxadxb9q%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3brzmzm2ceteusjzjxadxb9q%3d%3d" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/zahra-bateninia-634a86299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3brzmzm2ceteusjzjxadxb9q%3d%3d" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zahrabateninia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zahrabateninia" height="30" width="40" /></a>
 </p>
 
