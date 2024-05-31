@@ -1,7 +1,7 @@
 ![profile header](github-header-image.png)
 <h3 align="center">Passionate about Python, web development, and adept at problem-solving</h3>
 
-- 🌱 I’m currently learning **Troubleshooting and Debugging Techniques**, **django** and **CS**
+- 🌱 I’m currently learning **Troubleshooting and Debugging Techniques** and **Django** 
 
 - 📫 How to reach me **zahrabatenin@gmail.com**
 
