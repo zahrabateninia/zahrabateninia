@@ -2,7 +2,6 @@
 <h3 align="center">Passionate about Python, web development, and adept at problem-solving</h3>
 
 
-- I'm currently learning **React**.
 - 📫 How to reach me **zahrabatenin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
