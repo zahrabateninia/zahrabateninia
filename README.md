@@ -1,5 +1,5 @@
 ![profile header](github-header-image.png)
-<h3 align="center">Passionate about Python, web development, and adept at problem-solving</h3>
+<h3 align="center">Passionate about full-stack web development and skilled in problem-solving.</h3>
 
 
 - 📫 How to reach me **zahrabatenin@gmail.com**
