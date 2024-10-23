@@ -4,7 +4,7 @@
 
 ### 📫 How to reach me:
  - **zahrabatenin@gmail.com**
----
+
 
 ### 🖥️ Languages:
 <p align="left">
@@ -19,7 +19,7 @@
   </a>
 </p>
 
----
+
 
 ### 🚀 Frameworks:
 <p align="left">
@@ -31,7 +31,7 @@
   </a>
 </p>
 
----
+
 
 ### 🗄️ Database and Testing Tools:
 <p align="left">
@@ -46,7 +46,6 @@
   </a>
 </p>
 
----
 
 ### 🌐 Web Technologies:
 <p align="left">
@@ -68,7 +67,6 @@
 
 </p>
 
----
 
 ### 💻 Operating Systems:
 <p align="left">
