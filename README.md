@@ -2,11 +2,11 @@
 ![profile header](github-header-image.png)
 
 
-### 📫 How to reach me:
+### How to reach me:
  - **zahrabatenin@gmail.com**
 
 
-### 🖥️ Languages:
+### Languages:
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -21,7 +21,7 @@
 
 
 
-### 🚀 Frameworks:
+### Frameworks:
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
@@ -33,7 +33,7 @@
 
 
 
-### 🗄️ Database and Testing Tools:
+### Database and Testing Tools:
 <p align="left">
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
@@ -47,7 +47,7 @@
 </p>
 
 
-### 🌐 Web Technologies:
+### Web Technologies:
 <p align="left">
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>
@@ -68,10 +68,13 @@
 </p>
 
 
-### 💻 Operating Systems:
+### Operating Systems:
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
   </a>
 </p>
 
