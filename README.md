@@ -1,6 +1,3 @@
-<!-- Profile Header -->
-![profile header](github-header-image.png)
-
 
 ### How to reach me:
  - **zahrabatenin@gmail.com**
