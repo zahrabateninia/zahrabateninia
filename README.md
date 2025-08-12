@@ -1,85 +1,78 @@
-### How to reach me:
- - **zahrabatenin@gmail.com**
-
-
-### Languages:
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  </a>
+<!-- Typing SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F72C7D&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Zahra+%F0%9F%91%8B;Web+Developer+%7C+Clean+Code+Enthusiast;React+%26+JavaScript+Lover;Always+learning+new+things!">
 </p>
-
-
-### Frameworks:
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-</p>
-
-
-### Database and Testing Tools:
-<p align="left">
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
-  </a>
-</p>
-
-
-### Web Technologies:
-<p align="left">
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
-  </a>
-</p>
-
-
-### Operating Systems:
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
-  </a>
-</p>
-
 
 ---
 
-### 📊 GitHub Stats:
+## 📬 How to Reach Me  
+[![Gmail](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:zahrabatenin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
+---
+
+## 🚀 Tech Stack
+
+### 🖥 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+### ⚙️ Frameworks
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+### 🗄 Databases & Testing
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+
+### 🌐 Web Tools
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+### 💻 Operating Systems
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+---
+
+## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahrabateninia&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zahrabateninia&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zahrabateninia&theme=radical" alt="GitHub Streak" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrabateninia&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahrabateninia&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🌟 About Me
+- 🌱 Currently deepening my skills in React and IT Automation 
+- 🎯 Focused on **clean architecture** and **maintainable code**  
+- 📚 Always exploring new tech and frameworks  
+- ☕ Fueled by coffee & curiosity
+- 🗣 Fluent in English, Persian and conversational French and German
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Coding" />
+</p>
+
+---
+⭐️ _If you like my work, consider giving a ⭐ to my repos!_
