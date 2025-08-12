@@ -3,14 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F72C7D&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Zahra+%F0%9F%91%8B;Web+Developer+%7C+Clean+Code+Enthusiast;React+%26+JavaScript+Lover;Always+learning+new+things!">
 </p>
 
----
 
 ## 📬 How to Reach Me  
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](zahrabatenin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zahra-bateninia-634a86299/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://zahrabateninia.github.io/my-personal-website/)
 
----
 
 ## 🚀 Tech Stack
 
@@ -46,7 +44,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=zahrabateninia&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -55,9 +52,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrabateninia&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahrabateninia&theme=radical" alt="GitHub Activity Graph" />
-</p>
+</p> -->
 
 ---
 
@@ -68,11 +65,9 @@
 - ☕ Fueled by coffee & curiosity
 - 🗣 Fluent in English, Persian and conversational French and German
 
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Coding" />
 </p>
 
----
 ⭐️ _If you like my work, consider giving a ⭐ to my repos!_
