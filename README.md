@@ -6,7 +6,7 @@
 ---
 
 ## 📬 How to Reach Me  
-[![Gmail](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:zahrabatenin@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](zahrabatenin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zahra-bateninia-634a86299/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://zahrabateninia.github.io/my-personal-website/)
 
