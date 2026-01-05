@@ -59,11 +59,10 @@
 -  Currently deepening my skills in React and IT Automation 
 -  Focused on **clean architecture** and **maintainable code**  
 -  Always exploring new tech and frameworks  
--  Fueled by coffee & curiosity
 -  Fluent in English, Persian and conversational French and German
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Coding" />
-</p>
+</p> -->
 
