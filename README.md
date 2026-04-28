@@ -108,7 +108,6 @@
 ---
 
 ## About Me
--  Currently deepening my skills in **React & IT Automation**
+-  Currently deepening my skills in **React, NodeJS & IT Automation**
 - Focused on **clean architecture** & **maintainable code**
--  Always exploring new technologies & frameworks
 -  Fluent in **English**, **Persian**, and conversational **French & German**
