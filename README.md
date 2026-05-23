@@ -111,3 +111,4 @@
 -  Currently deepening my skills in **React, NodeJS & IT Automation**
 - Focused on **clean architecture** & **maintainable code**
 -  Fluent in **English**, **Persian**, and conversational **French & German**
+-  Mostly working on private repos :) 
