@@ -3,7 +3,7 @@
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║     Z A H R A   B A T E N I N I A                   ║
+║     Z A H R A   B A T E N I N I A                    ║
 ║     Full-Stack Web Developer                         ║
 ║     Tehran, Iran                                     ║
 ║                                                      ║
@@ -76,7 +76,7 @@ recent  ↦  Full Stack @ IBRO — React + Django for biology exam platform
 | Language | Level |
 |----------|-------|
 | Persian  | Native |
-| English  | Fluent (C1) |
+| English  | Fluent |
 | French   | Familiar |
 | German   | Familiar |
 
