@@ -20,7 +20,7 @@
 
 I'm a full-stack developer who's been building web apps for a few years — mostly with **React** and **Django**, though I'm comfortable jumping between the frontend and backend depending on what a project needs.
 
-I've worked on real-time IoT dashboards used by municipalities, refactored messy legacy codebases, built e-commerce platforms, and managed Linux servers. I care a lot about clean, readable code and interfaces that actually make sense to use.
+I've worked on real-time IoT dashboards, refactored messy legacy codebases, built e-commerce platforms, and managed Linux servers. I care a lot about clean, readable code and interfaces that actually make sense to use.
 
 When I'm not coding, I'm probably reading about something I don't know yet.
 
