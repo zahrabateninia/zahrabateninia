@@ -43,8 +43,8 @@ PostgreSQL  ·  MongoDB  ·  MySQL
 
 **Tooling**
 ```
-Docker  ·  Git / GitHub / GitLab  ·  CI/CD
-Linux (Hetzner)  ·  Bash  ·  JWT  ·  Swagger  ·  ESLint
+Docker  ·  Git / GitHub / GitLab/ HamGit  ·  CI/CD
+Linux   ·  Windows  ·  Bash  ·  JWT  ·  Swagger  ·  ESLint  ·  Cursor Agent
 ```
 
 ---
@@ -107,5 +107,5 @@ recent  ↦  Full Stack @ IBRO — React + Django for biology exam platform
 ---
 
 <div align="center">
-<sub>Most of my work lives in private repos — but I'm always building something. Feel free to reach out.</sub>
+<sub>Most of my work lives in private repos and they are on HamGit or GitLab — but I'm always building something. Feel free to reach out.</sub>
 </div>
