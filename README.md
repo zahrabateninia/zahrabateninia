@@ -30,9 +30,9 @@ When I'm not coding, I'm probably reading about something I don't know yet.
 
 **Frontend**
 ```
-React  ·  TypeScript  ·  Redux Toolkit  ·  TanStack Query
+React  ·  TypeScript  ·  Redux Toolkit·  Zustand  ·  TanStack Query
 Tailwind CSS  ·  MUI  ·  Shadcn/ui
-Framer Motion  ·  GSAP  ·  ApexCharts
+Framer Motion  ·  GSAP  ·  ApexCharts·  Leaflet
 ```
 
 **Backend**
