@@ -1,111 +1,89 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║     Z A H R A   B A T E N I N I A                    ║
-║     Full-Stack Web Developer                         ║
-║     Tehran, Iran                                     ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+zahra@dev:~$ whoami
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=1200&color=2A7F8F&center=true&vCenter=true&width=550&lines=React+%2F+TypeScript+%2F+Django;Building+things+that+work+%E2%80%94+and+look+good+doing+it;IoT+dashboards+%7C+e-commerce+%7C+APIs;Open+to+new+challenges)](https://git.io/typing-svg)
+# Zahra Bateninia
+
+**full-stack developer, tehran** — react/typescript on top, django/node underneath
+
+[email](mailto:zahrabatenin@gmail.com) · [linkedin](https://www.linkedin.com/in/zahra-bateninia-634a86299/) · [portfolio](https://zahrabateninia.vercel.app) · [github](https://github.com/zahrabateninia)
 
 </div>
 
----
-
-### `whoami`
-
-I'm a full-stack developer who's been building web apps for a few years — mostly with **React** and **Django**, though I'm comfortable jumping between the frontend and backend depending on what a project needs.
-
-I've worked on real-time IoT dashboards, refactored messy legacy codebases, built e-commerce platforms, and managed Linux servers. I care a lot about clean, readable code and interfaces that actually make sense to use.
-
-When I'm not coding, I'm probably reading about something I don't know yet.
-
----
-
-### `stack --current`
-
-**Frontend**
-```
-React  ·  TypeScript  ·  Redux Toolkit·  Zustand  ·  TanStack Query
-Tailwind CSS  ·  MUI  ·  Shadcn/ui
-Framer Motion  ·  GSAP  ·  ApexCharts·  Leaflet
-```
-
-**Backend**
-```
-Django  ·  Node.js  ·  Express
-PostgreSQL  ·  MongoDB  ·  MySQL
-```
-
-**Tooling**
-```
-Docker  ·  Git / GitHub / GitLab/ HamGit  ·  CI/CD
-Linux   ·  Windows  ·  Bash  ·  JWT  ·  Swagger  ·  ESLint  ·  Cursor Agent
-```
-
----
-
-### `ls ~/projects`
-
-**[ShopEase](https://shopppease.netlify.app/)** — A single-page e-commerce app with a product catalog, cart, Redux Toolkit for state, and TanStack Query for data fetching.
-
-**Smart City IoT Dashboards** — Real-time camera observation dashboards for municipalities and police departments. High-traffic, live data, performance-critical.
-
-**E-Commerce API** *(in progress)* — Building a full backend with Node.js and Express to go deeper on backend architecture.
-
-**70+ repos** on GitHub covering algorithms, UI experiments, and things I'm learning.
-
----
-
-### `git log --oneline`
+<br>
 
 ```
-recent  ↦  Full Stack @ IBRO — React + Django for biology exam platform
- 2025   ↦  Frontend @ Sharif Konect — IoT dashboards, TypeScript migration
- 2024   ↦  Freelance Django dev @ RealPars — APIs, cron jobs, Linux servers
+zahra@dev:~$ cat about.md
 ```
 
----
+I build the kind of interfaces that make a backend worth having — real-time
+dashboards, live scoreboards, checkout flows that don't feel like checkout
+flows. React/TypeScript is where I'm strongest; Django and Node are where
+that work actually gets its data. In between, I've kept legacy code alive,
+migrated it forward, and put it behind Docker so nobody has to think about
+it again.
 
-### `cat languages.txt`
+```
+zahra@dev:~$ ls stack/ --by-role
+```
 
-| Language | Level |
-|----------|-------|
-| Persian  | Native |
-| English  | Fluent |
-| French   | Familiar |
-| German   | Familiar |
+```
+frontend/    react · typescript · redux toolkit · zustand · tanstack query
+             tailwind · shadcn/ui · mui · framer motion · gsap
+             apexcharts · leaflet
 
----
+backend/     django · node.js · express · postgresql · mongodb
+             mysql · redis · jwt · swagger
 
-### `reach --out`
+ops/         docker · linux · bash · git & git flow · hamgit
+             gitlab · ci/cd · eslint
+```
 
-<div align="left">
+```
+zahra@dev:~$ git log --oneline --graph
+```
 
-[![Email](https://img.shields.io/badge/zahrabatenin@gmail.com-1A2A4A?style=flat-square&logo=gmail&logoColor=white)](mailto:zahrabatenin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2A7F8F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-bateninia-634a86299/)
-[![GitHub](https://img.shields.io/badge/zahrabateninia-1A2A4A?style=flat-square&logo=github&logoColor=white)](https://github.com/zahrabateninia)
+```
+* 2025—now    full-stack @ abarkelas — e-learning platform, react + django,
+|             ticketing system, dockerized end to end
+* 2025—2026   full-stack @ iran biology olympiad — live scoring, ranking,
+|             postgres tuning, caching under exam-day load
+* 2025—2026   frontend @ sharif konect — smart-city iot dashboards,
+|             migrated legacy views to tanstack query, typed the codebase
+* 2024        web dev @ realpars — django backend, youtube api, cron jobs,
+|             kept a hetzner box alive
+* 2020—2022   english instructor @ gooyesh 
+```
 
-</div>
+```
+zahra@dev:~$ ls projects/ -la
+```
 
----
+**[shopease](https://shopppease.netlify.app/)** — e-commerce SPA. redux toolkit for
+state, tanstack query for data, gsap + framer motion for the parts that
+shouldn't feel static.
 
-### `stats`
+**smart city iot dashboards** — real-time camera feeds for municipalities and
+police departments. built for high traffic and low tolerance for lag. *(private)*
+
+**ibro exam platform** — biology exam software with a live scoreboard that
+updates as scores come in. *(private)*
+
+**[this portfolio](https://zahrabateninia.vercel.app)** — same terminal bit,
+longer form. gsap-animated, built on shadcn/ui.
+
+```
+zahra@dev:~$ echo $STATUS
+```
+
+`open to full-stack roles — remote, hybrid, or in-person`
+
+<br>
 
 <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahrabateninia&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2A7F8F&text_color=8B9DB0)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=zahrabateninia&theme=dark&hide_border=true&background=0D1117&stroke=2A7F8F&ring=2A7F8F&fire=F72C7D&currStreakLabel=8B9DB0&dates=8B9DB0)
-
-</div>
-
----
-
-<div align="center">
-<sub>Most of my work lives in private repos and they are on HamGit or GitLab — but I'm always building something. Feel free to reach out.</sub>
+<sub>Persian (native) · English (C1) · French & German (familiar)</sub>
+<br>
+<sub>most of the real work lives in private repos on hamgit/gitlab — this is the public trail</sub>
 </div>
