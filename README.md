@@ -1,89 +1,65 @@
-<div align="center">
+ <div align="center">
 
-```
+```text
 zahra@dev:~$ whoami
 ```
 
 # Zahra Bateninia
 
-**full-stack developer, tehran** — react/typescript on top, django/node underneath
+**full-stack developer · Tehran**
 
-[email](mailto:zahrabatenin@gmail.com) · [linkedin](https://www.linkedin.com/in/zahra-bateninia-634a86299/) · [portfolio](https://zahrabateninia.vercel.app) · [github](https://github.com/zahrabateninia)
+[portfolio](https://zahrabateninia.vercel.app) · [linkedin](https://www.linkedin.com/in/zahra-bateninia-634a86299/) · [email](mailto:zahrabatenin@gmail.com) · [github](https://github.com/zahrabateninia)
 
 </div>
 
-<br>
-
-```
+```text
 zahra@dev:~$ cat about.md
 ```
 
-I build the kind of interfaces that make a backend worth having — real-time
-dashboards, live scoreboards, checkout flows that don't feel like checkout
-flows. React/TypeScript is where I'm strongest; Django and Node are where
-that work actually gets its data. In between, I've kept legacy code alive,
-migrated it forward, and put it behind Docker so nobody has to think about
-it again.
+I build interfaces that make complex applications easier to use — from real-time dashboards and live scoreboards to e-commerce experiences. React and TypeScript are my main tools on the frontend; Django and Node.js power the backend. I also work on API design, database performance, and deployment workflows.
 
-```
+```text
 zahra@dev:~$ ls stack/ --by-role
 ```
 
-```
-frontend/    react · typescript · redux toolkit · zustand · tanstack query
-             tailwind · shadcn/ui · mui · framer motion · gsap
-             apexcharts · leaflet
+```text
+frontend/    react · typescript · redux toolkit · zustand
+             tanstack query · tailwind css · shadcn/ui · material ui
+             framer motion · gsap · apexcharts · leaflet
 
-backend/     django · node.js · express · postgresql · mongodb
-             mysql · redis · jwt · swagger
+backend/     python · django · node.js · express
+             postgresql · mysql · mongodb · redis
+             rest apis · jwt · swagger
 
-ops/         docker · linux · bash · git & git flow · hamgit
-             gitlab · ci/cd · eslint
-```
-
-```
-zahra@dev:~$ git log --oneline --graph
+ops/         docker · linux · bash · git · git flow
+             gitlab ci/cd · hamgit · eslint
 ```
 
 ```
-* 2025—now    full-stack @ abarkelas — e-learning platform, react + django,
-|             ticketing system, dockerized end to end
-* 2025—2026   full-stack @ iran biology olympiad — live scoring, ranking,
-|             postgres tuning, caching under exam-day load
-* 2025—2026   frontend @ sharif konect — smart-city iot dashboards,
-|             migrated legacy views to tanstack query, typed the codebase
-* 2024        web dev @ realpars — django backend, youtube api, cron jobs,
-|             kept a hetzner box alive
-* 2020—2022   english instructor @ gooyesh 
+zahra@dev:~$ ls projects/
 ```
 
-```
-zahra@dev:~$ ls projects/ -la
-```
+**[shopease](https://shopppease.netlify.app/)** — e-commerce SPA with state management, server-state handling, and interactive animations.
 
-**[shopease](https://shopppease.netlify.app/)** — e-commerce SPA. redux toolkit for
-state, tanstack query for data, gsap + framer motion for the parts that
-shouldn't feel static.
+**smart-city iot dashboards** — real-time camera monitoring for municipal and public-safety use cases. *(private)*
 
-**smart city iot dashboards** — real-time camera feeds for municipalities and
-police departments. built for high traffic and low tolerance for lag. *(private)*
+**ibro exam platform** — online biology examinations with live scoring and rankings. *(private)*
 
-**ibro exam platform** — biology exam software with a live scoreboard that
-updates as scores come in. *(private)*
+**semantic versioning service** — microservice for managing build and product versions. *(private)*
 
-**[this portfolio](https://zahrabateninia.vercel.app)** — same terminal bit,
-longer form. gsap-animated, built on shadcn/ui.
+**[personal portfolio](https://zahrabateninia.vercel.app)** — animated portfolio built with React, GSAP, and shadcn/ui.
 
-```
+```text
 zahra@dev:~$ echo $STATUS
 ```
 
-`open to full-stack roles — remote, hybrid, or in-person`
-
-<br>
+open to full-stack opportunities · remote · hybrid · on-site
 
 <div align="center">
-<sub>Persian (native) · English (C1) · French & German (familiar)</sub>
-<br>
-<sub>most of the real work lives in private repos on hamgit/gitlab — this is the public trail</sub>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=zahrabateninia&show_icons=true&hide_border=true&bg_color=00000000&title_color=0D9488&icon_color=0D9488&text_color=64748B" alt="GitHub statistics"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrabateninia&layout=compact&hide_border=true&bg_color=00000000&title_color=0D9488&text_color=64748B" alt="Top languages"/>
+
+<sub>Most professional work lives in private repositories on GitLab and HamGit.</sub>
+
 </div>
