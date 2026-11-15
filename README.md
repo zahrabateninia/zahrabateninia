@@ -72,6 +72,6 @@ I primarily work with **React and TypeScript** on the frontend and **Django and 
 
 I'm always interested in collaborating on challenging projects, exploring new technologies, and connecting with other developers.
 
-[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://zahrabateninia.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://zahra-portfolio-2026.vercel.app)
 
 </div>
