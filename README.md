@@ -5,9 +5,9 @@
 
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://zahrabateninia.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://zahra-portfolio-2026.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-bateninia-634a86299/)
-[![Email](https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahra.batenin@gmail.com)
+[![Email](https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahrabatenin@gmail.com)
 
 </div>
 
