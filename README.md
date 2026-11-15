@@ -1,65 +1,54 @@
- <div align="center">
-
-```text
-zahra@dev:~$ whoami
-```
+<div align="center">
 
 # Zahra Bateninia
 
-**full-stack developer · Tehran**
+**Full-Stack Developer · Tehran, Iran**
 
-[portfolio](https://zahrabateninia.vercel.app) · [linkedin](https://www.linkedin.com/in/zahra-bateninia-634a86299/) · [email](mailto:zahrabatenin@gmail.com) · [github](https://github.com/zahrabateninia)
+React · TypeScript · Django · PostgreSQL
 
-</div>
-
-```text
-zahra@dev:~$ cat about.md
-```
-
-I build interfaces that make complex applications easier to use — from real-time dashboards and live scoreboards to e-commerce experiences. React and TypeScript are my main tools on the frontend; Django and Node.js power the backend. I also work on API design, database performance, and deployment workflows.
-
-```text
-zahra@dev:~$ ls stack/ --by-role
-```
-
-```text
-frontend/    react · typescript · redux toolkit · zustand
-             tanstack query · tailwind css · shadcn/ui · material ui
-             framer motion · gsap · apexcharts · leaflet
-
-backend/     python · django · node.js · express
-             postgresql · mysql · mongodb · redis
-             rest apis · jwt · swagger
-
-ops/         docker · linux · bash · git · git flow
-             gitlab ci/cd · hamgit · eslint
-```
-
-```
-zahra@dev:~$ ls projects/
-```
-
-**[shopease](https://shopppease.netlify.app/)** — e-commerce SPA with state management, server-state handling, and interactive animations.
-
-**smart-city iot dashboards** — real-time camera monitoring for municipal and public-safety use cases. *(private)*
-
-**ibro exam platform** — online biology examinations with live scoring and rankings. *(private)*
-
-**semantic versioning service** — microservice for managing build and product versions. *(private)*
-
-**[personal portfolio](https://zahrabateninia.vercel.app)** — animated portfolio built with React, GSAP, and shadcn/ui.
-
-```text
-zahra@dev:~$ echo $STATUS
-```
-
-open to full-stack opportunities · remote · hybrid · on-site
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=zahrabateninia&show_icons=true&hide_border=true&bg_color=00000000&title_color=0D9488&icon_color=0D9488&text_color=64748B" alt="GitHub statistics"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrabateninia&layout=compact&hide_border=true&bg_color=00000000&title_color=0D9488&text_color=64748B" alt="Top languages"/>
-
-<sub>Most professional work lives in private repositories on GitLab and HamGit.</sub>
+[Portfolio](https://zahrabateninia.vercel.app) · [LinkedIn](https://www.linkedin.com/in/zahra-bateninia-634a86299/) · [Email](mailto:zahrabatenin@gmail.com)
 
 </div>
+
+---
+
+## About
+
+I build interfaces that make complex applications easier to use, from real-time dashboards and live scoreboards to e-commerce experiences. React and TypeScript are my main tools on the frontend, with Django and Node.js on the backend. I also work on API design, database performance, and deployment workflows.
+
+## Currently
+
+**Web Developer at AccTech**: building and maintaining web applications and REST APIs, with CI/CD on GitLab.
+
+## Tech Stack
+
+| | |
+|---|---|
+| **Frontend** | React, TypeScript, Redux Toolkit, Zustand, TanStack Query, Tailwind CSS, shadcn/ui, Material UI |
+| **Animation & Data Viz** | Framer Motion, GSAP, ApexCharts, Leaflet |
+| **Backend** | Python, Django, Node.js, Express, REST APIs, JWT, Swagger |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **DevOps & Tools** | Docker, Linux, Bash, Git, Git Flow, GitLab CI/CD, HamGit, ESLint |
+
+## Selected Projects
+
+**[ShopEase](https://shopppease.netlify.app/)**
+E-commerce SPA with global state management, server-state handling, and interactive animations.
+
+**[Personal Portfolio](https://zahrabateninia.vercel.app)**
+Animated portfolio built with React, GSAP, and shadcn/ui.
+
+**IBRO Exam Platform** *(private)*
+Online biology examinations with live scoring and rankings.
+
+**Smart-City IoT Dashboards** *(private)*
+Real-time camera monitoring for municipal and public-safety use cases.
+
+**Semantic Versioning Service** *(private)*
+Microservice for managing build and product versions.
+
+## Open To
+
+Full-stack opportunities: remote, hybrid, or on-site.
+
+<sub>Most of my professional work lives in private repositories on GitLab and HamGit.</sub>
