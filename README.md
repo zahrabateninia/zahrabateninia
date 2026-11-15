@@ -1,54 +1,77 @@
+
 <div align="center">
 
-# Zahra Bateninia
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=180&section=header&text=Zahra%20Bateninia&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Tehran&descAlignY=58&descSize=16" alt="Zahra Bateninia" width="100%"/>
 
-**Full-Stack Developer · Tehran, Iran**
 
-React · TypeScript · Django · PostgreSQL
 
-[Portfolio](https://zahrabateninia.vercel.app) · [LinkedIn](https://www.linkedin.com/in/zahra-bateninia-634a86299/) · [Email](mailto:zahrabatenin@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://zahrabateninia.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-bateninia-634a86299/)
+[![Email](https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahra.batenin@gmail.com)
 
 </div>
 
----
 
-## About
+## About Me
 
-I build interfaces that make complex applications easier to use, from real-time dashboards and live scoreboards to e-commerce experiences. React and TypeScript are my main tools on the frontend, with Django and Node.js on the backend. I also work on API design, database performance, and deployment workflows.
+I'm a Full-Stack Web Developer with a strong focus on building scalable, maintainable, and user-friendly web applications.
 
-## Currently
+My experience spans developing interactive interfaces, real-time dashboards, live scoreboards, and e-commerce platforms, as well as designing backend services and integrating RESTful APIs.
 
-**Web Developer at AccTech**: building and maintaining web applications and REST APIs, with CI/CD on GitLab.
+I primarily work with **React and TypeScript** on the frontend and **Django and Node.js** on the backend.
 
-## Tech Stack
+- **Frontend Development:** Component-driven architecture, state management, and responsive interfaces.
+- **Backend Development:** RESTful APIs, server-side application development, and business logic.
+- **Database Management:** Relational and NoSQL databases, query optimization, and data modeling.
+- **Development Practices:** Git workflows, containerization, CI/CD pipelines, and maintainable code.
 
-| | |
-|---|---|
-| **Frontend** | React, TypeScript, Redux Toolkit, Zustand, TanStack Query, Tailwind CSS, shadcn/ui, Material UI |
-| **Animation & Data Viz** | Framer Motion, GSAP, ApexCharts, Leaflet |
-| **Backend** | Python, Django, Node.js, Express, REST APIs, JWT, Swagger |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
-| **DevOps & Tools** | Docker, Linux, Bash, Git, Git Flow, GitLab CI/CD, HamGit, ESLint |
+## Technical Skills
 
-## Selected Projects
+### Frontend Development
 
-**[ShopEase](https://shopppease.netlify.app/)**
-E-commerce SPA with global state management, server-state handling, and interactive animations.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,materialui" alt="Frontend technologies"/>
+</p>
 
-**[Personal Portfolio](https://zahrabateninia.vercel.app)**
-Animated portfolio built with React, GSAP, and shadcn/ui.
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-0D9488?style=flat-square&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-334155?style=flat-square)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB?style=flat-square)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
-**IBRO Exam Platform** *(private)*
-Online biology examinations with live scoring and rankings.
+### Backend Development
 
-**Smart-City IoT Dashboards** *(private)*
-Real-time camera monitoring for municipal and public-safety use cases.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" alt="Backend technologies"/>
+</p>
 
-**Semantic Versioning Service** *(private)*
-Microservice for managing build and product versions.
+### Databases
 
-## Open To
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" alt="Database technologies"/>
+</p>
 
-Full-stack opportunities: remote, hybrid, or on-site.
+### DevOps & Development Tools
 
-<sub>Most of my professional work lives in private repositories on GitLab and HamGit.</sub>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,gitlab,github,eslint" alt="Development tools"/>
+</p>
+
+- **Version Control:** Git, GitHub, GitLab, Git Flow
+- **CI/CD:** GitLab CI/CD, automated pipelines
+- **Containerization:** Docker, Docker Compose
+- **API Tools:** Axios, Swagger / OpenAPI
+- **Code Quality:** ESLint, modular architecture, clean code principles
+
+
+<div align="center">
+
+### Let's Connect
+
+I'm always interested in collaborating on challenging projects, exploring new technologies, and connecting with other developers.
+
+[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://zahrabateninia.vercel.app)
+
+</div>
