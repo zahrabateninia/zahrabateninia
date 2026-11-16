@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=180&section=header&text=Zahra%20Bateninia&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Tehran&descAlignY=58&descSize=16" alt="Zahra Bateninia" width="100%"/>
@@ -64,6 +63,19 @@ I primarily work with **React and TypeScript** on the frontend and **Django and 
 - **Containerization:** Docker, Docker Compose
 - **API Tools:** Axios, Swagger / OpenAPI
 - **Code Quality:** ESLint, modular architecture, clean code principles
+
+
+<div align="center">
+
+## GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=zahrabateninia&background=0F172A&stroke=0D9488&ring=2DD4BF&fire=2DD4BF&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=2DD4BF&sideLabels=CBD5E1&dates=94A3B8&border_radius=10">
+  <img src="https://streak-stats.demolab.com/?user=zahrabateninia&background=F8FAFC&stroke=0D9488&ring=0D9488&fire=0D9488&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0D9488&sideLabels=334155&dates=64748B&border_radius=10" alt="GitHub streak" height="170"/>
+</picture>
+
+
+</div>
 
 
 <div align="center">
